@@ -2,6 +2,11 @@
 
 This gist is to display some examples of for loops within [Terraform](https://www.terraform.io/).
 
+## Getting started
+
+* `terraform init`
+* `terraform apply -target module.[module_id]`
+
 ## Helpful documents
 
 ### Expressions
